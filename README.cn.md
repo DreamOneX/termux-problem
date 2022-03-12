@@ -1,7 +1,6 @@
 # termux-problem
 
-
-Collect problems and solutions encountered in termux. [切换至简体中文](README.cn.md)
+收集在Termux中可能遇到的问题和解决方案 [change to English](README.md)
 
 # LICENSE
 
